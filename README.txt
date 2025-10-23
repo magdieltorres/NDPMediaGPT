@@ -35,3 +35,5 @@ Incluye:
 
 ✅ ¡Listo! Ya tu bot estará respondiendo mensajes con GPT.
 
+gunicorn
+
